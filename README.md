@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arie Aizenman</h1>
+
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects**
 
 - 🌱 I’m currently learning **ML system design**
