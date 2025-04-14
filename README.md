@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arie Aizenman</h1>
 
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects**
-
-- 🌱 I’m currently learning **ML system design**
+🔬 Data Scientist and Software Engineer at SolarEdge  
+🧠 Passionate about turning complex data into impactful insights  
+🌍 Working on large-scale systems, ML, and real-time analytics
 
 - 💬 Ask me about **Data Analysis, Data Science and how to bridge between these and product/business**
 
