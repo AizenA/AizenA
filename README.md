@@ -4,9 +4,9 @@
 🧠 Passionate about turning complex data into impactful insights  
 🌍 Working on large-scale systems, ML, and real-time analytics
 
-- 💬 Ask me about **Data Analysis, Data Science and how to bridge between these and product/business**
+💬 Ask me about **Data Analysis, Data Science and how to bridge between these and product/business**
 
-- 📫 How to reach me **arieaizenman@gmail.com**
+📫 Reach me: **arieaizenman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
